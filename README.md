@@ -4,3 +4,4 @@ These are my notes to help me understand the use of data structures and algorith
 
 - Algorithms
   - **Big-O**
+    - O(n^2)
